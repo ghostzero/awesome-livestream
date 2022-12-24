@@ -26,6 +26,11 @@
       "description": "Content creators and platforms with educational content."
     },
     {
+      "id": "emote-artist",
+      "name": "Emote Artist",
+      "description": "List of emote artists for Twitch, YouTube, Discord and other platforms."
+    },
+    {
       "id": "music",
       "name": "Music",
       "description": "DMCA-free or paid services for stream-safe music."

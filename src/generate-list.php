@@ -25,6 +25,8 @@ A curated list of amazingly awesome streaming software, tools, resources and shi
 
 ## Contributing and Collaborating
 
+Please see [CONTRIBUTING](https://github.com/ghostzero/awesome-livestream/blob/main/CONTRIBUTING.md) for details.
+
 ## Table of Contents
 
 - Awesome Livestream

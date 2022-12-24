@@ -4,6 +4,8 @@ A curated list of amazingly awesome streaming software, tools, resources and shi
 
 ## Contributing and Collaborating
 
+Please see [CONTRIBUTING](https://github.com/ghostzero/awesome-livestream/blob/main/CONTRIBUTING.md) for details.
+
 ## Table of Contents
 
 - Awesome Livestream
@@ -11,6 +13,7 @@ A curated list of amazingly awesome streaming software, tools, resources and shi
   - [All-In-One Solutions](#all-in-one-solutions)
   - [Chatbot](#chatbot)
   - [Education](#education)
+  - [Emote Artist](#emote-artist)
   - [Music](#music)
   - [Overlays](#overlays)
   - [Scene Editor](#scene-editor)
@@ -58,6 +61,11 @@ A curated list of amazingly awesome streaming software, tools, resources and shi
 * [Senpai Gaming](https://www.youtube.com/@Senpai) - Live Streaming in a nutshell
 * [StreamScheme](https://www.streamscheme.com/) - English step-by-step tutorials and advices.
 * [Twitch Creator Camp](https://www.twitch.tv/creatorcamp) - Free multi-language video/text learning courses for Twitch.
+
+### Emote Artist
+
+*List of emote artists for Twitch, YouTube, Discord and other platforms.*
+
 
 ### Music
 
