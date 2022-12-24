@@ -11,19 +11,29 @@
       "description": "Browser sources for notifications."
     },
     {
-      "id": "overlays",
-      "name": "Overlays",
-      "description": "Pre-made overlay and assets for channel branding."
-    },
-    {
       "id": "chatbot",
       "name": "Chatbot",
       "description": "Software for chat commands and automation."
     },
     {
+      "id": "tipping-page",
+      "name": "Tipping Page",
+      "description": "Page to collecting tips or offering subscriptions."
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "description": "Content creators and platforms with educational content."
+    },
+    {
       "id": "music",
       "name": "Music",
       "description": "DMCA-free or paid services for stream-safe music."
+    },
+    {
+      "id": "overlays",
+      "name": "Overlays",
+      "description": "Pre-made overlay and assets for channel branding."
     },
     {
       "id": "scene-editor",
@@ -49,44 +59,73 @@
   "projects": [
     {
       "name": "OWN3D Pro",
-      "description": "All-in-one streaming tool with dozen of features.",
+      "description": "All-in-one streaming tool with a dozen of features.",
       "url": "https://www.own3d.pro/",
       "categories": [
         "all-in-one-solutions",
         "alerts",
         "chatbot",
-        "music"
+        "tipping-page",
+        "music",
+        "overlays"
       ]
     },
     {
       "name": "Sound Alerts",
-      "description": "All-in-one streaming tool with dozen of features.",
+      "description": "All-in-one streaming tool with a dozen of features.",
       "url": "https://soundalerts.com/",
       "categories": [
         "all-in-one-solutions",
         "alerts",
-        "chatbot",
         "scene-editor"
       ]
     },
     {
       "name": "StreamElements",
-      "description": "All-in-one streaming tool with dozen of features.",
+      "description": "All-in-one streaming tool with a dozen of features.",
       "url": "https://streamelements.com/",
       "categories": [
         "all-in-one-solutions",
         "alerts",
         "chatbot",
-        "scene-editor"
+        "tipping-page",
+        "scene-editor",
+        "overlays"
       ]
     },
     {
       "name": "Streamlabs",
-      "description": "All-in-one streaming tool with dozen of features.",
+      "description": "All-in-one streaming tool with a dozen of features.",
       "url": "https://streamlabs.com/",
       "categories": [
         "all-in-one-solutions",
         "alerts",
+        "chatbot",
+        "tipping-page",
+        "overlays"
+      ]
+    },
+    {
+      "name": "MooBot",
+      "description": "Acts as Twitch mod, automatically removing spam and undesirable comments in your chat.",
+      "url": "https://moo.bot/",
+      "categories": [
+        "chatbot"
+      ]
+    },
+    {
+      "name": "Nightbot",
+      "description": "Bot for Twitch, YouTube, and Trovo that allows you to automate your live stream's chat.",
+      "url": "https://nightbot.tv/",
+      "categories": [
+        "chatbot"
+      ]
+    },
+    {
+      "name": "TwitchWaifus",
+      "description": "Waifu Trading Chatbot for your Twitch chat.",
+      "url": "https://twitchwaifus.com/",
+      "categories": [
         "chatbot"
       ]
     },
@@ -227,115 +266,92 @@
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "Senpai Records",
+      "description": "Focused on delivering high-quality EDM music.",
+      "url": "https://www.youtube.com/@SenpaiRecords",
       "categories": [
-        ""
+        "music"
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "Panda Beats",
+      "description": "Copyright free music that is safe to listen to.",
+      "url": "https://pandabeatsmusic.com/",
       "categories": [
-        ""
+        "music"
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "Twitch Creator Camp",
+      "description": "Free multi-language video/text learning courses for Twitch.",
+      "url": "https://www.twitch.tv/creatorcamp",
       "categories": [
-        ""
+        "education"
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "OWN3D Academy",
+      "description": "Free multi-language video/text learning courses for all platforms.",
+      "url": "https://www.own3d.academy/",
       "categories": [
-        ""
+        "education"
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "StreamScheme",
+      "description": "English step-by-step tutorials and advices.",
+      "url": "https://www.streamscheme.com/",
       "categories": [
-        ""
+        "education"
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "Nilson1489",
+      "description": "German step-by-step tutorials and advices.",
+      "url": "https://www.youtube.com/@Nilson1489",
       "categories": [
-        ""
+        "education"
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "Senpai Gaming",
+      "description": "Live Streaming in a nutshell",
+      "url": "https://www.youtube.com/@Senpai",
       "categories": [
-        ""
+        "education"
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "Rerun Manager",
+      "description": "Stream non-live content (Reruns) on your Twitch channel.",
+      "url": "https://www.rerunmanager.com/",
       "categories": [
-        ""
+        "streaming-software"
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "Ko-fi",
+      "description": "All-in-one place to accept donations, memberships and sales from your fans.",
+      "url": "https://ko-fi.com/",
       "categories": [
-        ""
+        "tipping-page"
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "Patreon",
+      "description": "Build memberships by providing exclusive access.",
+      "url": "https://www.patreon.com/",
       "categories": [
-        ""
+        "tipping-page"
       ]
     },
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "name": "Tipeeestream",
+      "description": "Collect tips as a streamer and display alerts.",
+      "url": "https://www.tipeeestream.com/",
       "categories": [
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "description": "",
-      "url": "",
-      "categories": [
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "description": "",
-      "url": "",
-      "categories": [
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "description": "",
-      "url": "",
-      "categories": [
-        ""
+        "tipping-page",
+        "alerts"
       ]
     },
     {
