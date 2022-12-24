@@ -1,0 +1,414 @@
+{
+  "categories": [
+    {
+      "id": "all-in-one-solutions",
+      "name": "All-In-One Solutions",
+      "description": "All-in-one providers that sells you almost everything."
+    },
+    {
+      "id": "alerts",
+      "name": "Alerts",
+      "description": "Browser sources for notifications."
+    },
+    {
+      "id": "overlays",
+      "name": "Overlays",
+      "description": "Pre-made overlay and assets for channel branding."
+    },
+    {
+      "id": "chatbot",
+      "name": "Chatbot",
+      "description": "Software for chat commands and automation."
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "description": "DMCA-free or paid services for stream-safe music."
+    },
+    {
+      "id": "scene-editor",
+      "name": "Scene Editor",
+      "description": "Editors to create scenes using browser-sources."
+    },
+    {
+      "id": "streaming-platform",
+      "name": "Streaming Platform",
+      "description": "Software for streaming and recording."
+    },
+    {
+      "id": "streaming-software",
+      "name": "Streaming & Recording Software",
+      "description": "Software for streaming and recording."
+    },
+    {
+      "id": "vst-plugin",
+      "name": "VST Plugins",
+      "description": "Plugins for audio manipulation."
+    }
+  ],
+  "projects": [
+    {
+      "name": "OWN3D Pro",
+      "description": "All-in-one streaming tool with dozen of features.",
+      "url": "https://www.own3d.pro/",
+      "categories": [
+        "all-in-one-solutions",
+        "alerts",
+        "chatbot",
+        "music"
+      ]
+    },
+    {
+      "name": "Sound Alerts",
+      "description": "All-in-one streaming tool with dozen of features.",
+      "url": "https://soundalerts.com/",
+      "categories": [
+        "all-in-one-solutions",
+        "alerts",
+        "chatbot",
+        "scene-editor"
+      ]
+    },
+    {
+      "name": "StreamElements",
+      "description": "All-in-one streaming tool with dozen of features.",
+      "url": "https://streamelements.com/",
+      "categories": [
+        "all-in-one-solutions",
+        "alerts",
+        "chatbot",
+        "scene-editor"
+      ]
+    },
+    {
+      "name": "Streamlabs",
+      "description": "All-in-one streaming tool with dozen of features.",
+      "url": "https://streamlabs.com/",
+      "categories": [
+        "all-in-one-solutions",
+        "alerts",
+        "chatbot"
+      ]
+    },
+    {
+      "name": "OBS Studio",
+      "description": "OBS Studio is a free and open source streaming and recording software.",
+      "url": "https://obsproject.com/",
+      "categories": [
+        "streaming-software"
+      ]
+    },
+    {
+      "name": "Twitch Studio",
+      "description": "Free streaming software, designed to help new streamers get started on Twitch.",
+      "url": "https://www.twitch.tv/broadcast/studio",
+      "categories": [
+        "streaming-software"
+      ]
+    },
+    {
+      "name": "Streamlabs Desktop",
+      "description": "Free and open source streaming software built on OBS and Electron.",
+      "url": "https://streamlabs.com/streamlabs-live-streaming-software",
+      "categories": [
+        "streaming-software"
+      ]
+    },
+    {
+      "name": "RNNoise",
+      "description": "A noise suppression library based on a recurrent neural network.",
+      "url": "https://github.com/xiph/rnnoise",
+      "categories": [
+        "vst-plugin"
+      ]
+    },
+    {
+      "name": "Twitch",
+      "description": "Live streaming platform for gamers.",
+      "url": "https://www.twitch.tv/",
+      "categories": [
+        "streaming-platform"
+      ]
+    },
+    {
+      "name": "YouTube",
+      "description": "Online video sharing platform.",
+      "url": "https://www.youtube.com/",
+      "categories": [
+        "streaming-platform"
+      ]
+    },
+    {
+      "name": "Facebook",
+      "description": "Online social media platform.",
+      "url": "https://www.facebook.com/",
+      "categories": [
+        "streaming-platform"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "description": "Short-form video sharing platform.",
+      "url": "https://www.tiktok.com/",
+      "categories": [
+        "streaming-platform"
+      ]
+    },
+    {
+      "name": "Streams Charts",
+      "description": "Paid Twitch channel statistics and analytics.",
+      "url": "https://streamscharts.com/",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "name": "SullyGnome",
+      "description": "Free Twitch channel statistics and analytics.",
+      "url": "https://sullygnome.com/",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "name": "TwitchMetrics",
+      "description": "Free Twitch channel statistics and analytics.",
+      "url": "https://www.twitchmetrics.net/",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "name": "Twitch Insights",
+      "description": "Free Twitch channel and extension statistics and analytics.",
+      "url": "https://twitchinsights.net/",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "name": "TwitchTracker",
+      "description": "Free Twitch channel statistics and analytics.",
+      "url": "https://twitchtracker.com/",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "name": "Social Blade",
+      "description": "Free channel statistics and analytics for every platform.",
+      "url": "socialblade",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "name": "Pretzel",
+      "description": "Twitch and YouTube-safe tracks.",
+      "url": "https://www.pretzel.rocks/",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "name": "Monstercat",
+      "description": "Music curation and syndication platform.",
+      "url": "https://www.monstercat.com/",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "name": "Epidemic Sound",
+      "description": "Music licensing platform.",
+      "url": "https://www.epidemicsound.com/",
+      "categories": [
+        "music"
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "categories": [
+        ""
+      ]
+    }
+  ]
+}
